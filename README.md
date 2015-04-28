@@ -1,2 +1,2 @@
 # extjs-sample
-Sample ExtJS Application
+Coming Soon....
